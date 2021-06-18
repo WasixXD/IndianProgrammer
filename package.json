@@ -1,0 +1,20 @@
+{
+  "name": "IndianProgrammer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot",
+    "dev": "node-dev bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "got": "^11.8.2"
+  },
+  "devDependencies": {
+    "node-dev": "^5.2.0"
+  }
+}
